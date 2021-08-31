@@ -1,5 +1,5 @@
 # Tableau Challenge
-Citi Bike Tableu Analysis
+Citi Bike Tablaeu Analysis
 
 https://public.tableau.com/app/profile/zachary.owen/viz/CitiBikeAnalysis_16295538409300/CitiBikeAnalysis?publish=yes
 
